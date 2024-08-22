@@ -100,9 +100,9 @@ This documentation covers the basic operation of PLD. For advanced operations su
 
 #### Deposition
 1. :warning: **OPEN** the deposition shutter fully to the **150°** marked position by rotating the knob clockwise. :warning:
-2. **Load routine** for deposition.
+2. **Load routine** for deposition. Start the routine.
 3. :octicons-dash-16::octicons-dash-16::material-asterisk: *Laser* :material-asterisk::octicons-dash-16::octicons-dash-16:will start firing. Use the **laser safety goggle!** :warning: :warning:
-4. Start the routine.
+
 
 ### Finishing the Deposition
 1. Move the **deposition shutter** back to the **closed** position (**60°**).
@@ -117,7 +117,7 @@ This documentation covers the basic operation of PLD. For advanced operations su
 
 #### Stop the TMP
 1. **OPEN** the N₂ gas cylinder.
-2. **CLOSE**the TMP gate valve (clockwise) until you hear click sound.
+2. **CLOSE** the TMP gate valve (clockwise) until you hear click sound.
 3. **Load routine** for TMP > **TMP ramp down to 200Hz and STOP**
 > TMP will ramp down to 200 Hz and then stopped.
 

@@ -59,6 +59,7 @@ This documentation covers the basic operation of PLD. For advanced operations su
     - Press **Start Routine** button.
     - Rough pump will start and subsequently the TMP will start spinning-up to the maximum frequency of **1kHz**.
 3. Wait until the pressure reaches **10<sup>-5</sup> Torr** or less.
+   > :warning: If the pressure does not reach **10<sup>-3</sup> Torr** within a few minutes, check all possible sources of leaks (e.g., unfastened coarse or vent valves, untightened window ports, etc.)
 
 <a id="Substrate-Thermal-Cleaning-and-Degassing"></a>
 ### Substrate Thermal Cleaning and Degassing

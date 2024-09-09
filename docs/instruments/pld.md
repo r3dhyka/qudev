@@ -4,7 +4,7 @@ Documentation and manuals for the available instruments used in Qdevtech experim
 
 
 ## Pulsed Laser Deposition (Standard)
-:material-tag-outline:{ title="Minimum version" } [0.1.0](../changelog/index.md)
+:material-tag-outline:{ title="Minimum version" } [0.1.1](../changelog/index.md)
 
 
 ### Introduction

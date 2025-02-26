@@ -4,7 +4,7 @@ Documentation and manuals for the available instruments used in Qdevtech experim
 
 
 ## Pulsed Laser Deposition (Standard)
-:material-tag-outline:{ title="Minimum version" } [0.1.1](../changelog/index.md)
+:material-tag-outline:{ title="Minimum version" } [0.1.2](../changelog/index.md)
 
 
 ### Introduction
@@ -50,7 +50,7 @@ This documentation covers the basic operation of PLD. For advanced operations su
 8. Use the torque wrench to apply the specified torque value. Turn the wrench until you hear or feel the **click**, indicating that the desired torque has been reached.
 9. Repeat this process for all screws, following the same pattern.
 
-
+<a id="Starting-the-PLD-Chamber-Evacuation-Routine"></a>
 ### Starting the PLD Chamber Evacuation Routine
 1. Open the turbo molecular pump **(TMP) valve** fully (**counter-clockwise**).
 2. Load the routine on the software to start pumping:
@@ -116,6 +116,7 @@ This documentation covers the basic operation of PLD. For advanced operations su
         - Go to **Manual Control** > **Heaters** > **Setpoint** at your desired **Ramp Rate**
         > See the [**Substrate Thermal Cleaning and Degassing**](#Substrate-Thermal-Cleaning-and-Degassing) section.
 
+<a id="Stop-the-TMP"></a>
 #### Stop the TMP
 1. **OPEN** the N₂ gas cylinder.
 2. **CLOSE** the TMP gate valve (clockwise) until you hear click sound.
@@ -130,14 +131,20 @@ This documentation covers the basic operation of PLD. For advanced operations su
 5. Make sure the deposition shutter is in the closed position (**60°**). :warning:
 6. Remove the CF flange slowly, maintaining its horizontal position during removal to avoid collision with the chamber wall. :warning:**HEAVY**:warning:
 7. Put the substrate stage on the styrofoam holder facing the substrate UP.
-8. Put alumunium foil cover on the open CF port.
-9. **CLOSE** the N₂ gas cylinder.
+
+#### Closing the chamber port and put the chamber in vacuumed condition
+1. Put the plain CF flange to the chamber port replacing the substrate stage and screw the flange tight
+2. Open the main chamber valve.
+3. Vacuum the chamber again down to ~**10<sup>-5</sup> Torr**. > See the [Starting the PLD Chamber Evacuation Routine](#Starting-the-PLD-Chamber-Evacuation-Routine) section. 
+4. Close the main chamber valve.
+5. Stop the TMP. > See the [Stop the TMP](#Stop-the-TMP) section.
 
 #### Shutting down the PLD machine
 1. Turn **OFF** the motor controller.
 2. Turn **OFF** the heater controller (**Heater** and **Power** button).
 3. Shutdown the PC.
 4. Turn **OFF** the Main Power of the system **CB2** and **CB1**.
+5. **CLOSE** the N₂ (and any other gas used during deposition) cylinder.
 
 <p>&nbsp;</p>
 

@@ -2,6 +2,11 @@
 
 ## Material revisions
 
+### 0.1.2 <small>February 26, 2025</small>
+
+- Instrument/PLD:
+  - Update on the process after deposition. Keep the chamber in vacuum after deposition.
+
 ### 0.1.1 <small>September 09, 2024</small>
 
 - Instrument/PLD:

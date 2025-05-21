@@ -6,6 +6,9 @@ Documentation and manuals for the available instruments used in Qdevtech experim
 ## Pulsed Laser Deposition (Standard)
 :material-tag-outline:{ title="Minimum version" } [0.1.2](../changelog/index.md)
 
+Symbol :
+:warning: = Warning/Attention!
+:fire: = Cautious due to risk of burning/hot surface!
 
 ### Introduction
 

@@ -6,6 +6,10 @@ Documentation and manuals for the available instruments used in Qdevtech experim
 ## Pulsed Laser Deposition (Standard)
 :material-tag-outline:{ title="Minimum version" } [0.1.2](../changelog/index.md) 
 
+Symbol:<br>
+⚠️ = Warning/Cautious!<br>
+🔥 = Cautious for burning risk / hot surface
+
 ### Introduction
 
 Pulsed laser deposition (PLD) is essentially a physical vapor deposition (PVD) method used to create thin films, where a high-powered pulsed laser beam is focused into a vacuum chamber to hit the surface of the solid target material intended for deposition. Adjacent to the target lies the substrate, where the thin film grows.

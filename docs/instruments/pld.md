@@ -8,7 +8,7 @@ Documentation and manuals for the available instruments used in Qdevtech experim
 
 <p>Symbol:<br>
 :warning: = Warning/Attention!<br>
-:fire: = Cautious due to risk of burning/hot surface!<p>
+:fire: = Cautious due to risk of burning/hot surface!</p>
 
 ### Introduction
 

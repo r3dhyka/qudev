@@ -33,7 +33,7 @@ This documentation covers the basic operation of PLD. For advanced operations su
 9. Wait for the curing to finish, approx. 5 minutes. 
     - Push the **Reset Controller** button to turn off the heater.
 
-<img src="../assets/IMG_3529.HEIC" alt="Substrate mounted on the holder/heater" style="height: 100px; width:100px;"/>
+<img src="../assets/substrate.png" alt="Substrate mounted on the holder/heater" style="height: 480px; width:480px;"/>
 
 ### Initialize the Motors
 - On the Neocera N-PLD software:

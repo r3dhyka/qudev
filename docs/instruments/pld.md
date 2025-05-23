@@ -44,7 +44,7 @@ This documentation covers the basic operation of PLD. For advanced operations su
 </figure>
 
 <figure markdown="span">
-    ![CB](https://raw.githubusercontent.com/r3dhyka/qdevtech/refs/heads/main/docs/assets/heater_motor.png){ width="400" }
+    ![Heater_Motor](https://raw.githubusercontent.com/r3dhyka/qdevtech/refs/heads/main/docs/assets/heater_motor.png){ width="400" }
     <figcaption>Figure 3. Heater and Motor controller box</figcaption>
 </figure>
 

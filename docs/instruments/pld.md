@@ -43,6 +43,11 @@ This documentation covers the basic operation of PLD. For advanced operations su
     <figcaption>Figure 2. Circuit breaker switch</figcaption>
 </figure>
 
+<figure markdown="span">
+    ![CB](https://raw.githubusercontent.com/r3dhyka/qdevtech/refs/heads/main/docs/assets/heater_motor.png){ width="400" }
+    <figcaption>Figure 3. Heater and Motor controller box</figcaption>
+</figure>
+
 
 ### Initialize the Motors
 - On the Neocera N-PLD software:

@@ -37,7 +37,7 @@ This documentation covers the basic operation of PLD. For advanced operations su
   <img src="../assets/substrate.png" alt="Substrate mounted on the holder/heater" style="height: 480px; width:480px;"/>
   <figcaption>Fig.1 - Substrate mounted on the holder/heater.</figcaption>
 </figure>
-
+ <br>
 <figure>
   <img src="../assets/CB.png" alt="Circuit Breaker switch" style="height: 480px; width:480px;"/>
   <figcaption>Fig.2 - Circuit Breaker Switch.</figcaption>

@@ -2,6 +2,10 @@
 
 ## Material revisions
 
+### 0.1.3 <small>February 26, 2025</small>
+- Home
+  - Update group name to Quantum Devices
+
 ### 0.1.2 <small>February 26, 2025</small>
 
 - Instrument/PLD:

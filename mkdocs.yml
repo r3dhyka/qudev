@@ -54,6 +54,8 @@ theme:
   - tags
 
 markdown_extensions:
+  - md_in_html
+  - pymdownx.blocks.caption
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji

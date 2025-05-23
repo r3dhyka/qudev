@@ -35,12 +35,13 @@ This documentation covers the basic operation of PLD. For advanced operations su
 
 <figure markdown="span">
     ![Substrate holder](https://raw.githubusercontent.com/r3dhyka/qdevtech/refs/heads/main/docs/assets/substrate.png){ width="240" }
-    <figcaption>Substrate mounted on the holder/heater</figcaption>
+    <figcaption>Figure 1. Substrate mounted on the holder/heater</figcaption>
 </figure>
-
+<br>
+<br>
 <figure markdown="span">
     ![CB](https://raw.githubusercontent.com/r3dhyka/qdevtech/refs/heads/main/docs/assets/CB.png){ width="240" }
-    <figcaption>Circuit breaker switch</figcaption>
+    <figcaption>Figure 2. Circuit breaker switch</figcaption>
 </figure>
 
 

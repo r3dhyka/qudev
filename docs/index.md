@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to the BRIN-Q Quantum Device and Technology Knowledge Base. This knowledge base serves as a compilation of experimental and instrument manuals, documentation, measurement codes, and know-how. It will be updated periodically.
+Welcome to the BRIN-Q Quantum Device Knowledge Base. This knowledge base serves as a compilation of experimental and instrument manuals, documentation, measurement codes, and know-how. It will be updated periodically.
 
 For full profile on Quantum Physics Research Center of BRIN (BRIN-Q) visit [quantumresearch.id](https://www.quantumresearch.id)
 

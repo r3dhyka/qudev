@@ -34,8 +34,8 @@ This documentation covers the basic operation of PLD. For advanced operations su
     - Push the **Reset Controller** button to turn off the heater.
 
 <figure markdown="span">
-  ![Image title]("../assets/substrate.png"){ width="480" }
-  <figcaption>Image caption</figcaption>
+    ![Image title](https://github.com/r3dhyka/qdevtech/blob/main/docs/assets/substrate.png){ width="480" }
+    <figcaption>Image caption</figcaption>
 </figure>
 
 

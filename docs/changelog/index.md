@@ -4,7 +4,7 @@
 
 ### 0.1.3 <small>February 26, 2025</small>
 - Home
-  - Update group name to Quantum Devices
+  - Update group name to Quantum Device
 
 ### 0.1.2 <small>February 26, 2025</small>
 

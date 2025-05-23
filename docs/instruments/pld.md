@@ -34,12 +34,12 @@ This documentation covers the basic operation of PLD. For advanced operations su
     - Push the **Reset Controller** button to turn off the heater.
 
 <figure markdown="span">
-    ![Substrate holder](https://raw.githubusercontent.com/r3dhyka/qdevtech/refs/heads/main/docs/assets/substrate.png){ width="360" }
+    ![Substrate holder](https://raw.githubusercontent.com/r3dhyka/qdevtech/refs/heads/main/docs/assets/substrate.png){ width="400" }
     <figcaption>Figure 1. Substrate mounted on the holder/heater</figcaption>
 </figure>
 <br>
 <figure markdown="span">
-    ![CB](https://raw.githubusercontent.com/r3dhyka/qdevtech/refs/heads/main/docs/assets/CB.png){ width="360" }
+    ![CB](https://raw.githubusercontent.com/r3dhyka/qdevtech/refs/heads/main/docs/assets/CB.png){ width="400" }
     <figcaption>Figure 2. Circuit breaker switch</figcaption>
 </figure>
 

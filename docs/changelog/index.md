@@ -2,6 +2,9 @@
 
 ## Material revisions
 
+### 1.2.0 <small>June 5, 2025</small>
+- Quantum Optics/Troubleshooting
+
 ### 1.1.0 <small>February 26, 2025</small>
 - Home
   - Update group name to Quantum Device

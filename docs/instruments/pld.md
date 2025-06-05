@@ -1,10 +1,10 @@
 # Instruments
 
-Documentation and manuals for the available instruments used in Qdevtech experimental research.
+Documentation and manuals for the available instruments used in Qudev experimental research.
 
 
 ## Pulsed Laser Deposition (Standard)
-:material-tag-outline:{ title="Minimum version" } [0.1.2](../changelog/index.md) 
+:material-tag-outline:{ title="Minimum version" } [1.0.2](../changelog/index.md) 
 
 Symbol:<br>
 ⚠️ = Warning/Cautious!<br>

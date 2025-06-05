@@ -1,6 +1,6 @@
 # Quantum Optics Laboratory
 
-Documentations of miscellaneous know-how and troubleshooting in Quantum Optics Lab.
+Documentation of miscellaneous know-how and troubleshooting in Quantum Optics Lab.
 
 ## Troubleshooting
 :material-tag-outline:{ title="Minimum version" } [1.2.0](../changelog/index.md) 

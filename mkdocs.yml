@@ -73,3 +73,5 @@ nav:
    - Atomic Force Microscopy: instruments/afm.md
  - Recipes:
    - Substrate Cleaning: recipes/substrate_cleaning.md
+ - Quantum Optics:
+   - Troubleshooting: qopt/troubleshooting.md

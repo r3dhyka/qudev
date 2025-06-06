@@ -3,7 +3,7 @@
 Documentation and manuals for the available instruments used in Qudev experimental research.
 
 
-## Pulsed Laser Deposition (Standard)
+## Pulsed Laser Deposition (Basic)
 :material-tag-outline:{ title="Minimum version" } [1.1.0](../changelog/index.md) 
 
 Symbol:<br>

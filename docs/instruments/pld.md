@@ -16,6 +16,8 @@ Pulsed laser deposition (PLD) is essentially a physical vapor deposition (PVD) m
 
 This documentation covers the basic operation of PLD. For advanced operations such as target mounting, deposition under Ar/N₂ gas, the detail on editing the PLD routine, etc. see the advanced section (under construction).
 
+For machine time booking, please contact grac002[at]brin[dot]go[dot]id 
+
 ### Substrate Mounting
 1. Before mounting, ensure the substrate heater stage is clean by removing any leftover silver paste using sandpaper and a cleaning tissue.
 > :warning: Before mounting, clean the substrate using the method explained in the [**Recipes**](../recipes/substrate_cleaning.md) section, or perform substrate preparation according to your own experimental requirements. :warning:

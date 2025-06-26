@@ -14,7 +14,7 @@ Symbol:<br>
 Do not use a long extension cable to power an equipment otherwise you will get spurious signals like the one shown in Fig. 1. The extension cable can act as an antenna and may pick up unwanted signals along the way.
 
 <figure markdown="span">
-    ![spurious signal](https://raw.githubusercontent.com/r3dhyka/qudev/refs/heads/main/docs/assets/spurious_signal.png){ width="400" }
+    ![spurious signal](../assets/spurious_signal.png){ width="400" }
     <figcaption>Figure 1. ~ 1 MHz spurious signal from a Si Photodetector</figcaption>
 </figure>
 

@@ -3,7 +3,7 @@
 Documentation of miscellaneous know-how and troubleshooting in Quantum Optics Lab.
 
 ## Troubleshooting
-:material-tag-outline:{ title="Minimum version" } [1.2.0](../changelog/index.md) 
+:information_source:[1.2.0](../changelog/index.md) 
 
 Symbol:<br>
 ⚠️ = Warning/Cautious!<br>

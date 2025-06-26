@@ -2,7 +2,7 @@
 
 Documentation of miscellaneous know-how and troubleshooting in Quantum Optics Lab.
 
-## Troubleshooting
+## Troubleshootings
 :information_source:[1.2.0](../changelog/index.md) 
 
 Symbol:<br>

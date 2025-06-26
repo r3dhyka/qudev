@@ -4,19 +4,17 @@ Documentation and manuals for the available instruments used in Qudev experiment
 
 
 ## Pulsed Laser Deposition (Basic)
-:material-tag-outline:{ title="Minimum version" } [1.1.0](../changelog/index.md) 
+:information_source:[1.1.0](../changelog/index.md) 
 
 Symbol:<br>
 ⚠️ = Warning/Cautious!<br>
-🔥 = Cautious for burning risk / hot surface
+🔥 = Cautious for burning risk/hot surface
 
 ### Introduction
 
 Pulsed laser deposition (PLD) is essentially a physical vapor deposition (PVD) method used to create thin films, where a high-powered pulsed laser beam is focused into a vacuum chamber to hit the surface of the solid target material intended for deposition. Adjacent to the target lies the substrate, where the thin film grows.
 
 This documentation covers the basic operation of PLD. For advanced operations such as target mounting, deposition under Ar/N₂ gas, the detail on editing the PLD routine, etc. see the advanced section (under construction).
-
-For machine time booking, please contact grac002[at]brin[dot]go[dot]id 
 
 ### Substrate Mounting
 1. Before mounting, ensure the substrate heater stage is clean by removing any leftover silver paste using sandpaper and a cleaning tissue.

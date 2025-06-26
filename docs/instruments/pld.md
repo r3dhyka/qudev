@@ -33,13 +33,13 @@ This documentation covers the basic operation of PLD. For advanced operations su
 9. Wait for the curing to finish, approx. 5 minutes. 
     - Push the **Reset Controller** button to turn off the heater.
 
-![Substrate holder](../assets/substrate.png)
+![Substrate holder](../assets/substrate.png)  
 *Figure 1. Substrate mounted on the holder/heater*
 
-![CB](../assets/CB.png)
+![CB](../assets/CB.png)  
 *Figure 2. Circuit breaker switch*
 
-![Heater_Motor](../assets/heater_motor.png)
+![Heater_Motor](../assets/heater_motor.png)  
 *Figure 3. Heater and Motor controller box*
 
 

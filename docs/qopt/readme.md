@@ -3,5 +3,5 @@ Spesific section dedicated for miscellaneous know-how and troubleshooting in Qua
 
 ## Lists
 
-1. **[Troubleshootings](/troubleshooting.md)**  
+1. **[Troubleshootings](./troubleshooting.md)**  
    Documentation of miscellaneous know-how and troubleshooting in Quantum Optics Lab.

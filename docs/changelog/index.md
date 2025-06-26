@@ -2,6 +2,9 @@
 
 ## Material revisions
 
+### 2.0.0 <small>June 26, 2025</small>
+- Merging to BRIN-Q github
+
 ### 1.2.0 <small>June 5, 2025</small>
 - Quantum Optics/Troubleshooting
 

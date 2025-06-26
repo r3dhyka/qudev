@@ -116,13 +116,13 @@ For machine time booking, please contact grac002[at]brin[dot]go[dot]id
 > It is usually set for 3 minutes
 > See the detail of PLD Routine in the advanced section (under construction).
 3. Target carousel motor will move to the designated target position.
-4. :octicons-dash-16::octicons-dash-16::material-asterisk: *Laser* :material-asterisk::octicons-dash-16::octicons-dash-16: will start firing. Use the **laser safety goggle!** :warning: :warning:
+4. :eight_spoked_asterisk: *Laser* will start firing. Use the **laser safety goggle!** :warning:
 > Target's surface will be ablated by laser (cleaned).
 
 #### Deposition
 1. :warning: **OPEN** the deposition shutter fully to the **150°** marked position by rotating the knob clockwise. :warning:
 2. **Load routine** for deposition. Start the routine.
-3. :octicons-dash-16::octicons-dash-16::material-asterisk: *Laser* :material-asterisk::octicons-dash-16::octicons-dash-16:will start firing. Use the **laser safety goggle!** :warning: :warning:
+3. :eight_spoked_asterisk: *Laser* will start firing. Use the **laser safety goggle!** :warning:
 
 
 ### Finishing the Deposition

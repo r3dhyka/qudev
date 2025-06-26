@@ -14,6 +14,7 @@ Symbol:<br>
 Do not use a long extension cable to power an equipment otherwise you will get spurious signals like the one shown in Fig. 1. The extension cable can act as an antenna and may pick up unwanted signals along the way.
 
 ![spurious signal](../assets/spurious_signal.png)
+
 *Figure 1. ~ 1 MHz spurious signal from a Si Photodetector.*
 
 ### Power Line Frequency Noise
